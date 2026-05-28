@@ -76,10 +76,8 @@ dataset_name = "traffic.txt"
 You can change the dataset, columns, lag, history length, and chunk gap in
 `RealDataConfig` inside `real_data_LWO.py`.
 
-Source of real data:
+Source of real data: https://github.com/laiguokun/multivariate-time-series-data
 
-traffic data: https://zenodo.org/records/4656132
-solar data: https://zenodo.org/records/3889974
 
 ## Predictors
 
