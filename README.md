@@ -20,9 +20,7 @@ do not save files or generate plots.
 - `ma1_LWO.py`: multivariate MA(1) simulation with vector-valued responses.
 - `real_data_LWO.py`: real-data time-series experiment using chunked one-step
   prediction tasks.
-- `sticky_markov_chain_LWO.py`: sticky Markov-chain counterexample. This script
-  keeps its own CP routines because each train/calibration subset must first be
-  transformed into repeat-count features.
+- `sticky_markov_chain_LWO.py`: sticky Markov-chain counterexample.
 
 ## Installation
 
