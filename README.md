@@ -67,7 +67,8 @@ script. For example:
 ├── real_data_LWO.py
 ├── utils.py
 └── real_data/
-    └── traffic.txt
+    ├── traffic.txt
+    └── solar_AL.txt
 ```
 
 The default dataset setting is:
