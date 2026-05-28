@@ -76,7 +76,9 @@ dataset_name = "traffic.txt"
 You can change the dataset, columns, lag, history length, and chunk gap in
 `RealDataConfig` inside `real_data_LWO.py`.
 
-Source of real data: https://github.com/laiguokun/multivariate-time-series-data
+Source of real data: Guokun Lai, Wei-Cheng Chang, Yiming Yang, and Hanxiao Liu. 2018. Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks. In SIGIR '18: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, July 8–12, 2018, Ann Arbor, MI, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3209978.3210006
+
+https://github.com/laiguokun/multivariate-time-series-data
 
 
 ## Predictors
