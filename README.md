@@ -2,14 +2,12 @@
 
 This repository is the official implementation for the paper **Leave a Window Out: Modifying the Jackknife for Predictive Inference in Time Series**.
 
-It contains cleaned experiment scripts for comparing conformal prediction
-methods on simulated and real time-series data.
+It contains experiment scripts for comparing conformal prediction methods on simulated and real time-series data.
 
 The implemented methods are:
 
 - Split conformal prediction (Split CP)
 - Jackknife
-- Jackknife+
 - Leave-window-out Jackknife (LWO)
 
 The scripts print coverage and interval width summaries to the terminal. They
